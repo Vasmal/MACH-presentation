@@ -1,0 +1,221 @@
+/* * {
+  color:black;
+} */
+
+p, li {
+  font-size: 24px;
+}
+
+.mach__text {
+  font-size: 24px;
+}
+
+.mach-container {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  color: aliceblue;
+}
+
+.mach__block {
+  padding: 10px;
+  border-radius: 15px;
+  flex-grow: 1;
+  width: 25%;
+}
+
+h6.mach__title {
+  color: antiquewhite;
+}
+
+.microservices {
+  background-color: #0073e6;
+}
+
+.api {
+  background-color: #004080;
+}
+
+.cloud {
+  background-color: #28a745;
+}
+
+.headless {
+  background-color: #17a2b8;
+}
+
+.mach__images {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 40px;
+  gap: 30px;
+}
+
+.mach__image {
+  width: 33.333%;
+}
+
+.microservices-container {
+  display: flex;
+  margin-top: 60px;
+  gap: 15px;
+}
+
+.microservices__block {
+  width: 33.3333%;
+}
+
+.microservices__title {
+  text-align: left;
+}
+
+.microservices__text {
+  font-size: 28px;
+  text-align: left;
+}
+
+.miscroservices__addvantages {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.miscroservices__addvantages p {
+  margin: 10px 0;
+}
+
+.microservices-image {
+  width: 50%;
+}
+
+.api__container {
+  display: flex;
+  gap: 15px;
+}
+
+.api__block {
+  width: 50%;
+}
+.api__content {
+  text-align: left;
+}
+
+.api__difinition p {
+  padding-left: 30px;
+  font-size: 24px;
+}
+.api__example li {
+  font-size: 24px;
+}
+
+.cloud__container {
+  display: flex;
+  gap: 15px;
+}
+.cloud__block {
+  width: 50%;
+}
+
+.cloud__info {
+  width: 60%;
+  text-align: left;
+}
+.cloud__content h6 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.cloud__content p {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.cloud__services {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.cloud__img {
+  display: flex;
+  justify-content: center;
+}
+
+.cloud__img img {
+  margin: 0;
+}
+
+.service__img img {
+  margin: 0;
+} 
+
+.algorithm-container {
+  border-bottom: 1px solid #004080;
+  padding-bottom: 20px;
+}
+
+.notes__title {
+  text-align: left;
+}
+
+.step__2 {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+.step__2 p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #004080;
+  color: azure;
+  padding: 15px;
+}
+
+.step__notes li {
+  margin-bottom: 10px;
+}
+
+.step__img {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+table {
+  border: 1px solid #004080;
+}
+
+.thead {
+  font-weight: 900;
+  background-color: rgba(255, 255, 255, 0.5);
+  
+}
+
+td {
+  border: 1px solid #004080;
+  font-size: 24px;
+}
+
+.use__container {
+  display: flex;
+  justify-content: center; 
+  gap: 50px;
+}
+
+.use__block {
+  padding: 10px;
+  border:2px solid #004080;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.use__block li {
+  margin-bottom: 10px;
+}
